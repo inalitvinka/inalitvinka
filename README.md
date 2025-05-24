@@ -15,7 +15,7 @@
 ![RWD](https://img.shields.io/badge/RWD-Responsive%20Web%20Design-0db7ed?style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-![Husky](https://img.shields.io/badge/Husky-000000.svg?logo=husky&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-Git%20Hooks-f24e43?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
