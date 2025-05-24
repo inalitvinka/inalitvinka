@@ -4,7 +4,7 @@
 
 ### I’m currently working on [eCommerce Application](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application), a final assignment of the [Rolling Scopes School](https://rs.school/) Front-end course
 
-### Stack
+## Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,11 +35,11 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-### Codewars
+## Codewars
 
 [![codewars](https://www.codewars.com/users/rsschool_0330dc27ed0bf285/badges/large)](https://www.codewars.com/users/rsschool_0330dc27ed0bf285)
 
-### Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ina-litvinka/)
 
