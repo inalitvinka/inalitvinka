@@ -10,6 +10,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+[![OOP](https://img.shields.io/badge/OOP-Enabled-blueviolet)](#)
+![BEM](https://img.shields.io/badge/BEM-Block__Element--Modifier-blue)
+![RWD](https://img.shields.io/badge/RWD-Responsive%20Web%20Design-0db7ed)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Husky](https://img.shields.io/badge/Husky-000000.svg?logo=husky&logoColor=white)
@@ -24,6 +27,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-000000.svg?logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-000000.svg?logo=scrum&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <!--
