@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer
 
-### I’m currently working on [eCommerce Application](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application), a final assignment of the [Rolling Scopes School](https://rs.school/) Front-end course.
+### I’m currently working on [eCommerce Application](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application), a final assignment of the [Rolling Scopes School](https://rs.school/) Front-end course
 
 ### Stack
 
@@ -36,10 +36,12 @@
 
 
 ### Codewars
+
 [![codewars](https://www.codewars.com/users/rsschool_0330dc27ed0bf285/badges/large)](https://www.codewars.com/users/rsschool_0330dc27ed0bf285)
 
 ### Contact
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ina-litvinka/)
 
 <!--
 **inalitvinka/inalitvinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
