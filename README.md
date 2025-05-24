@@ -31,6 +31,9 @@
 ![Scrum](https://img.shields.io/badge/Scrum-Agile%20Framework-ff6f61?style=for-the-badge)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+
+[![codewars](https://www.codewars.com/users/inalitvinka/badges/small)](https://www.codewars.com/users/inalitvinka) 
+
 <!--
 **inalitvinka/inalitvinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
