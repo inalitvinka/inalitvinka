@@ -32,7 +32,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-[![codewars](https://www.codewars.com/users/inalitvinka/badges/small)](https://www.codewars.com/users/inalitvinka) 
+[![codewars](https://www.codewars.com/users/rsschool_0330dc27ed0bf285/badges/small)](https://www.codewars.com/users/rsschool_0330dc27ed0bf285) 
 
 <!--
 **inalitvinka/inalitvinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
