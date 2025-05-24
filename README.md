@@ -27,7 +27,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-000000.svg?logo=agile&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Agile%20Methodology-0db7ed?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-000000.svg?logo=scrum&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
